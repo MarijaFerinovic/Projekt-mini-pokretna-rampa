@@ -1,6 +1,5 @@
 # Modularna mini pokretna rampa s I2C OLED prikazom i automatiziranim upravljanjem
 
-Seminarski rad iz kolegija **Ugrađeni sustavi**
 
 ## Opis sustava
 
